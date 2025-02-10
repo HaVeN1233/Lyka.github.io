@@ -30,3 +30,9 @@ button {
 .hidden {
   display: none;
 }
+
+#cuteGif {
+  width: 150px;
+  height: auto;
+  margin: 20px 0;
+}
